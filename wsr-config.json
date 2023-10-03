@@ -1,0 +1,10 @@
+{
+  "clientToServer": {
+    "example123":
+    "elpmaxe321"
+  },
+  "serverToClient": {
+    "elpmaxe987":
+    "example789"
+  }
+}
